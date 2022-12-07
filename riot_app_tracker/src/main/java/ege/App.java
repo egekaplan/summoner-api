@@ -12,7 +12,7 @@ import net.rithms.riot.constant.Platform;
 public class App 
 {
     private static Platform TR = Platform.TR;
-    private static final String RIOT_KEY = "RGAPI-1070f1b9-f7bf-44c4-95f8-0a659132254f";
+    private static final String RIOT_KEY = "YOUR-KEY-HERE";
     public static void main( String[] args ) throws Exception
     {
         System.out.println("Enter your summoner name; ");
